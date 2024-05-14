@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebContent</string>
+    <string name="run_test">RUN TEST</string>
+    <string name="scroll_down_to_see_more_information">Scroll down to see more information</string>
+</resources>
